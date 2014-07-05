@@ -1,5 +1,4 @@
 SRC=./src
-BIN=./bin
 
 LATEX=pdflatex
 
